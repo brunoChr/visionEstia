@@ -1,0 +1,8 @@
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\bin\Release\drawClient.exe.config
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\bin\Release\drawClient.exe
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\bin\Release\drawClient.pdb
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\obj\Release\drawClient.Drawing.resources
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\obj\Release\drawClient.Properties.Resources.resources
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\obj\Release\drawClient.csproj.GenerateResource.Cache
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\obj\Release\drawClient.exe
+D:\Documents\b.christol\Google Drive\Cour\3eme_annee_Estia\1_semestre\quickDev\faceUdp\drawClient\drawClient\obj\Release\drawClient.pdb

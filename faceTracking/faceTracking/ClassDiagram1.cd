@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ClientUDP">
+    <Position X="2.25" Y="2.25" Width="2.5" />
+    <NestedTypes>
+      <Delegate Name="ClientUDP.MainMethode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClientUDP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QIICYAIGSYAMAVwggAIBIAAACAIYEIDAFCFIBAEAAIA=</HashCode>
+      <FileName>ClientUDP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="faceTracking.comm">
+    <Position X="5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAIAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>comm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="faceTracking.faceTrack">
+    <Position X="7.25" Y="2.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="faceTracking.faceTrack.SetTextBoxCallBack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>faceTrack.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="faceTracking.faceTrack.SetTrackbarCallBack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>faceTrack.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="faceTracking.faceTrack.GetTrackbarCallBack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>faceTrack.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ozQARAUCACwAADJEIgDAAAYCEIEQACAAFCAGCABwYIk=</HashCode>
+      <FileName>faceTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="faceTracking.Program" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="faceTracking.Properties.Resources">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="faceTracking.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
